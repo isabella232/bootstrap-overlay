@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-overlay",
+  "version": "1.0.0",
+  "description": "Responsive overlay built with Bootstrap 5. Examples of overlay effect, overlay text on image, overlay image over image & more.",
+  "main": "basic.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/bootstrap-overlay.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "bootstrap-theme",
+    "bootstrap-template",
+    "bootstrap-overlay",
+    "responsive",
+    "responsive-design"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/bootstrap-overlay/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/overlay/"
+}
