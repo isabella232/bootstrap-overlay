@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Responsive overlay built with Bootstrap 5. Examples of overlay effect, overlay text on image, overlay image over image & more.",
   "main": "basic.html",
+  "private": "false",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
